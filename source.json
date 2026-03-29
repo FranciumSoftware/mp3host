@@ -2,4 +2,11 @@
   "name": "MusStream base",
   "version" : "0",
   "message": "It works !!!!!"
+  "musics": [
+    {
+      "title": "Spy. vs Spy.",
+      "artist": "SoundHelix",
+      "source": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-8.mp3"
+    }
+  ]
 }
